@@ -24,4 +24,6 @@ To repack the ramdisk(ramdisk.cpio.gz)  and kernel (bzImage) into boot.img
 
 Here boot.img is the original unmodified boot.img(required for boot headers) and new_boot.img is the modified new boot.img
 
+
+
 link to: http://forum.xda-developers.com/zenfone-4/general/asus-zenfone-4-boot-tools-t2966359
